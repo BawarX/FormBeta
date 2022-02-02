@@ -1,0 +1,44 @@
+p:nth-child(1){
+border-bottom: 2px solid black;
+padding: 20px;
+background-color: rgb(243, 243, 117);
+font-size: 20px;
+}
+input{
+background-color: rgb(221, 216, 216);
+width: 150px;
+border-radius: 5px;
+height: 20px;
+}
+p{
+    border-bottom: 2px solid black;
+   padding: 15px;
+    font-size: 18px;
+    background-color: rgb(211, 177, 243);
+    border-radius: 10px;
+}
+a{
+padding: 8px;
+background-color: rgb(243, 243, 117);
+border: none;
+border-radius: 5px;
+box-shadow: 0px 0px 15px 10px rgb(211, 177, 243);
+text-decoration: none;
+color: black;
+}
+textarea{
+    background-color: rgb(221, 216, 216);
+    border-radius: 5px;
+}
+fieldset{
+    border-radius: 5px;
+}
+legend{
+background-color: rgb(211, 177, 243);
+border-radius: 5px;
+font-size: 20px;
+}
+a:hover{
+    box-shadow: 0px 0px 15px 20px rgb(211, 177, 243);
+    transform: 0.5sc;
+}
